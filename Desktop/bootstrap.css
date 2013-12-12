@@ -3724,8 +3724,7 @@ body, ul, li {
 
 .HID { 
   position: absolute;
-  padding: 10ox;
-  color: red;
+  padding-top: 20px;
 
 }
 
